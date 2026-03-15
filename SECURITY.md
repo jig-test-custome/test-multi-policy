@@ -1,3 +1,5 @@
-# Security
+# JIG-START #
+# Security Policy
 
-No managed block markers here — full replace expected.
+If you discover a security vulnerability, please report it to us at security@enterprise.com.
+# JIG-END #
