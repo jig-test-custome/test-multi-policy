@@ -1,3 +1,7 @@
+# Security
+
+No managed block markers here — full replace expected.
+
 <!-- JIG:START -->
 > [!IMPORTANT]
 > **Managed by Jig** — Auto-generated compliance content. Manual edits _inside this block_ will be overwritten on next sync.
